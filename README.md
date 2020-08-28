@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Automation C#
 - 🌱 I’m currently learning Appium
 - 💬 Ask me about C#, Automation,Core Java
-- 📫 How to reach me: email id :-nitikeshs58@gmail.com
+- 📫 How to reach me: email id :- nitikeshs58@gmail.com
 
