@@ -15,9 +15,8 @@
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1W
--->
+ [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+ [2.2]: http://i.imgur.com/fep1W-->
 ### Hi there Nitikesh here ..!!👋
 
 <!--
