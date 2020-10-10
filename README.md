@@ -24,8 +24,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Automation C#
-- 🌱 I’m currently learning ..
+- 🔭 I’m currently working on Azure CI/CD Pipeline
+- 🌱 I’m currently learning CD Pipeline..
 - 💬 Ask me about C#, Manual Testing, Automation,Core Java
 - 📫 How to reach me: email id :- nitikeshs58@gmail.com
 
